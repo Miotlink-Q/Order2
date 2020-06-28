@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Order</string>
+    <string name="app_splash_tv">欢迎使用金色年华点餐系统</string>
+    <string name="app_order_title">金色年华点餐系统</string>
+    <string name="item_serial_tv">序号</string>
+    <string name="item_dishes_tv">菜品</string>
+    <string name="item_price_tv">价格</string>
+    <string name="item_count_tv">数量</string>
+    <string name="dialog_count_tv">还未到用餐时间，请耐心等待</string>
+    <string name="dialog_submit_tv">确定</string>
+    <string name="setting_title_tv">服务器设置</string>
+    <string name="setting_face_server_tv">人脸服务器：</string>
+    <string name="setting_hint_face_server_tv">输入人脸服务器</string>
+    <string name="setting_web_server_tv">业务服务器：</string>
+    <string name="setting_web_hint_server_tv">请输入业务服务器地址</string>
+    <string name="order_week_tv">星期四</string>
+    <string name="order_eat_tv">中餐</string>
+    <string name="order_username_tv">张三</string>
+    <string name="order_user_address_tv">一期三单元</string>
+    <string name="order_total_price_tv" >总价</string>
+    <string name="order_unit_tv">元</string>
+    <string name="order_previous_tv">上一位</string>
+    <string name="order_cancel_tv">取消</string>
+</resources>
